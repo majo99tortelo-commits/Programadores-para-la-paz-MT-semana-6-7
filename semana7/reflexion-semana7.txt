@@ -1,0 +1,10 @@
+Es fundamental que las comunidades tengan la posibilidad de registrar reportes o incidencias en una plataforma tecnológica
+porque esto permite organizar la información de manera clara y accesible. Los reportes ayudan a identificar problemas
+comunes, darles seguimientos y generar soluciones colectivas.
+Además, la posibilidad de consultar los reportes fortalece la transparencia y la confianza, ya que todos  los miembros pueden
+ver qué situaciones se han presentado y cómo se están atendiendo. Esto evita duplicar esfuerzos y facilita la colaboración.
+La plataforma también debe garantizar roles definidos, para que administradores gestionen la información, moderadores acompañen
+el proceso y los participantes aporten sus experiencias. A la vez, la autenticación asegura que quienes registran o consultan
+sean miembros reales de la comunidad. Finalmente, la privacidad es clave: los datos personales deben protegerse, mostrando pú-
+blicamente solo la información necesaria para resolver los problemas. Asi se logra un equilibrio entre participación abierta 
+y cuidado de la seguridad de los usuarios.

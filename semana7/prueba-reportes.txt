@@ -1,0 +1,21 @@
+Al consultar la ruta POST el resultado es el siguinete:
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 1,
+    "tipo": "Redes",
+    "descripcion": "Se cayó el cable de luz en la avenida "
+  }
+}
+Y decia en Status: 200 OK  -- 122 bytes
+
+Al consultar la ruta GET el resultado es el siguiente:
+[
+  {
+    "id": 1,
+    "tipo": "Redes",
+    "descripcion": "Se cayó el cable de luz en la avenida "
+  }
+]
+
+Y en status: 200 OK -- 81 bytes 
