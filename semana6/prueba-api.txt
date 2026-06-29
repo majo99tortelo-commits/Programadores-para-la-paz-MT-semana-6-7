@@ -1,0 +1,4 @@
+Ejecute el servidor con node server.js. Luego utilicé Thunder Client 
+para enviar una petición POST a http://localhost:3000/registro
+con un cuerpo JSON. El servidor respondió con un código 200 OK y devolvió 
+los datos recibidos, confirmando que la ruta funciona correctamente.
