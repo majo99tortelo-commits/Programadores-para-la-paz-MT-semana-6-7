@@ -1,0 +1,4 @@
+{
+  "tipo": "Árbol caído",
+  "descripcion": "Un árbol cayó sobre la vía después de las fuertes lluvias e impide el paso de los vehículos."
+}
